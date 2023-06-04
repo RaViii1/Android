@@ -1,0 +1,7 @@
+AppLaunchTimeoutError: Failed to launch app "xd.app" in reasonable time
+
+The app "xd.app" did not launch on "iPhone 12" in 15 seconds.
+
+bundle identifier: xd.xd
+device UDID: 68441DB3-9EDE-4D7B-AACC-8B0E90E0ECDB
+path: /Users/ravi/Library/Developer/Xcode/DerivedData/xd-dvzboegacvqholesqxnfbfcmxlin/Build/Intermediates.noindex/Previews/xd/Products/Debug-iphonesimulator/xd.app
